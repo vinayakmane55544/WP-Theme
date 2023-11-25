@@ -1,1 +1,1 @@
-# WP-Theme
+this is wordpress theme
